@@ -1,15 +1,32 @@
-# Exercise 3 - For loops and conditional statements 
+# Exercise 6 - Data analysis with Pandas
 
-The exercise for this week is meant to help you to understand `for` loops and conditional statements in Python.
-Below you have a series of problems in which you are asked to edit the notebook files and write the code necessary to produce the desired results.
+In this week's exercise we will continue developing our skills using Pandas to analyze climate data.
 
-- **Exercise 3 is due by the start of the next lesson (9:00 am, 26 April 2021)**.
+The aim of this exercise is to analyze historical weather data and weather anomalies. In Problem 1 you read in a tricky data file and explore it's contents. In problem 2, you will convert and aggregate the data from daily temperatures in Fahrenheit, to monthly average temperatures in Celsius. In Problem 3, you will finally analyze weather anomalies by conparing monthly average temperatures to a long-term average.
 
-## Start working
+- **Exercise 6 is due by the start of the next lesson (9:00 am, 24 May 2021)**.
+- 
+## Input data
+For problems 1-3 in this exercise we will be using historical climate data from the Helsinki-Vantaa airport station. For these problems, we have daily observations obtained from the NOAA Global Historical Climatology Network. The file was downloaded using the "Custom GHCN-Daily Text" output format, including following attributes:
 
-There are 4 problems in this week's exercise. Problem 4 is optional, but fun!
+| Attribute                | Description                      |
+|--------------------------|----------------------------------|
+| `STATION`                | Unique ID of the weather station |
+| `ELEVATION`              | Elevation of the station         |
+| `LATITUDE` , `LONGITUDE` | Coordinates of the station       |
+| `DATE`                   | Date of the measurement          |
+| `PRCP`                   | Precipitation                    |
+| `TAVG`                   | Average temperature              |
+| `TMAX`                   | Maximum temperature              |
+| `TMIN`                   | Minimum temperature              |
 
-1. Problem 1 - Batch processing data files with a for loop (2 points)
-2. Problem 2 - Classifying temperatures (4 points)
-3. Problem 3 - Allocating locations (4 points)
-4. Problem 4 - Nested `for` loops (*optional*, 0 points)
+Note: once again that temperatures in this dataset are given in degrees Fahrenheit.
+
+## Getting started
+
+Always remove these two lines when starting to work on an exercise:
+```
+# REPLACE THE ERROR BELOW WITH YOUR OWN CODE
+raise NotImplementedError()
+```
+This error will tell us if you have not even started to solve the problem when checking the exercises :)
