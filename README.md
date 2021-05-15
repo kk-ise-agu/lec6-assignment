@@ -2,8 +2,7 @@
 
 In this week's exercise we will continue developing our skills using Pandas to analyze climate data.
 
-The aim of this exercise is to analyze historical weather data and weather anomalies. In Problem 1 you read in a tricky data file and explore it's contents. In problem 2, you will convert and aggregate the data from daily temperatures in Fahrenheit, to monthly average temperatures in Celsius. In Problem 3, you will finally analyze weather anomalies by conparing monthly average temperatures to a long-term average.
-
+The aim of this exercise is to analyze historical weather data and weather anomalies. In Problem 1 you read in a tricky data file and explore it's contents. In problem 2, you will convert and aggregate the data from daily temperatures in Fahrenheit, to monthly average temperatures in Celsius. 
 - **Exercise 6 is due by the start of the next lesson (9:00 am, 24 May 2021)**.
 
 ## Input data
