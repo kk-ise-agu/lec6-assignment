@@ -23,9 +23,7 @@ Note: once again that temperatures in this dataset are given in degrees Fahrenhe
 
 ## Getting started
 
-Always remove these two lines when starting to work on an exercise:
+Always fill in the parts saying YOUR CODE HERE:
 ```
-# REPLACE THE ERROR BELOW WITH YOUR OWN CODE
-raise NotImplementedError()
+# YOUR CODE HERE 1
 ```
-This error will tell us if you have not even started to solve the problem when checking the exercises :)
