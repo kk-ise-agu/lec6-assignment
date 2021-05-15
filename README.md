@@ -35,7 +35,7 @@ Please don't edit the parts between the lines :
 
 and
 
-#CAUTION!!! DON'T EDIT THIS PART START
+#CAUTION!!! DON'T EDIT THIS PART END
 
 These lines are for autograding.  If you edit these lines, the instructor cannot evaluate your work correctly.
 
