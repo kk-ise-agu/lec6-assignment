@@ -27,3 +27,16 @@ Always fill in the parts saying YOUR CODE HERE:
 ```
 # YOUR CODE HERE 1
 ```
+
+### Parts you should not edit
+Please don't edit the parts between the lines : 
+from #CAUTION!!! DON'T EDIT THIS PART START
+to #CAUTION!!! DON'T EDIT THIS PART START
+
+These lines are for autograding.  If you edit these lines, the instructor cannot evaluate your work correctly.
+
+#CAUTION!!! DON'T EDIT THIS PART START
+# ...
+# ...
+#CAUTION!!! DON'T EDIT THIS PART END
+
