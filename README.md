@@ -23,7 +23,7 @@ Note: once again that temperatures in this dataset are given in degrees Fahrenhe
 
 ## Getting started
 
-- Before starting the editing of the python file, run 
+- Before starting, run 
 
 ```Shell
 pip install pandas
