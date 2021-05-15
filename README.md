@@ -27,6 +27,7 @@ Always fill in the parts saying YOUR CODE HERE:
 ```
 # YOUR CODE HERE 1
 ```
+You have nine parts in this assignment.
 
 ### Parts you should not edit
 Please don't edit the parts between the lines : 
