@@ -42,6 +42,6 @@ These lines are for autograding.  If you edit these lines, the instructor cannot
 ```
 #CAUTION!!! DON'T EDIT THIS PART START
 # ... Please don't edit this line 1
-# ... Please don't edit this line 1
+# ... Please don't edit this line 2
 #CAUTION!!! DON'T EDIT THIS PART END
 ```
