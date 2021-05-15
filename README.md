@@ -23,6 +23,18 @@ Note: once again that temperatures in this dataset are given in degrees Fahrenhe
 
 ## Getting started
 
+- Before starting the editing of the python file, run 
+
+```Shell
+pip install pandas
+```
+
+in the Repl.it shell. In the right panel of the repl.it page, you see "Console", "Shell", and "Markdown" tabs. Click the "Shell" tab, and input 
+```Shell
+pip install pandas
+```
+and hit enter key. Then, the installation of pandas starts. Wait a moment until it finishes the installation.
+
 Always fill in the parts saying YOUR CODE HERE:
 ```
 # YOUR CODE HERE 1
