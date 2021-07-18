@@ -1,4 +1,4 @@
-from Exercise_6_Problems_1_2ans import func1,func2,func3,func4,func5,func6,func7,func8,func9,func10,func11
+from Exercise_6_Problems_1_2 import func1,func2,func3,func4,func5,func6,func7,func8,func9,func10,func11
 
 def test_func1():
 	assert func1()==3308
